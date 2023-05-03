@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'World',
+      title: 'World Clock',
       theme: ThemeData(
         primarySwatch: Colors.green,
         textTheme: const TextTheme(
